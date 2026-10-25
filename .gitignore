@@ -1,0 +1,8 @@
+scratch_old.ipynb
+drama_sentiment.ipynb
+youtube_comments_raw.csv
+data/sent_parts/
+data/comments_clean.csv
+__pycache__/
+.ipynb_checkpoints/
+.env
